@@ -2,8 +2,9 @@
 in C++ binnen het kader van een project over optimalisatie van algoritmen.
 
 🌱 Mijn voorgaande projecten zijn:
-Een raytracer met Java.
-Een arcade game in C# met een SQL database. 
+- Implementatie van een raytracer in Java.
+- Ontwikkeling van een C# arcade game met integratie van een SQL-database.
+- Ontwikkeling van een Android-app voor het bedienen van kerstlichtjes via Arduino.
 
 🚀 Ik werk eraan om mijn C++-vaardigheden uit te breiden en 
 blijf leren van verschillende programmeertalen en technologieën. 
