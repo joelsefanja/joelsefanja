@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @joelsefanja
-- 👀 I’m interested in ICT
-- 🌱 I’m currently learning the Odin Project
-- 📫 How to reach me: joelsefanja@gmail.com
+👋 Hallo! Ik ben Joël, een HBO-ICT-student die zich momenteel verdiept 
+in C++ binnen het kader van een project over optimalisatie van algoritmen.
 
-<!---
-joelsefanja/joelsefanja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Mijn voorgaande projecten zijn:
+Een raytracer met Java.
+Een arcade game in C# met een SQL database. 
+
+🚀 Ik werk eraan om mijn C++-vaardigheden uit te breiden en 
+blijf leren van verschillende programmeertalen en technologieën. 
