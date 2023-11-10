@@ -5,7 +5,7 @@ in C++ binnen het kader van het [optimaliseren van een huidige tank simulatie ga
 - Implementatie van een [raytracer in Java](https://github.com/NHLStenden-HBO-ICT/graphics-2023-2024-groep-3-eend).
 - Ontwikkeling van een [C# arcade game](https://github.com/joelsefanja/arcade) met integratie van een SQL-database.
 - Ontwikkeling van een Android-app voor het bedienen van [kerstlichtjes via Arduino](https://github.com/joelsefanja/kerstlichtjes).
-- Ontwikkeling van een DigiBoekie website voor het digitaal beheren van jouw stripboekenverzameling. [](https://github.com/NHLStenden/p3-project-webdevelopment-team-4)
+- Ontwikkeling van een [DigiBoekie website](https://github.com/NHLStenden/p3-project-webdevelopment-team-4) voor het digitaal beheren van jouw stripboekenverzameling.
 - DataVision annotatie tool, [AnnoVision](https://github.com/joelsefanja/AnnoVision/), in Python voor diverse toepassingen, waaronder dierherkenning.
 
 🚀 Ik werk eraan om mijn [C++-vaardigheden uit te breiden](https://github.com/NHLStenden-HBO-ICT/flashdrive-tank-simulatie) en 
